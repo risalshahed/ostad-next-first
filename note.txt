@@ -1,0 +1,21 @@
+Next.js Project Structure
+This page provides an overview of the file and folder structure of a Next.js project. It covers top-level files and folders, configuration files, and routing conventions within the app and pages directories.
+
+Top-level folders
+app:	App Router
+public:	Static assets to be served
+
+Top-level files
+next.config.js:	Configuration file for Next.js
+package.json:	Project dependencies and scripts
+jsconfig.json:	Configuration file for JavaScript
+
+app: Routing Conventions
+
+Routing Files
+layout:	.js
+page:	.js
+
+Metadata File Conventions
+App Icons
+favicon:	.ico	Favicon file
